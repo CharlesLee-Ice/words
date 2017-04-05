@@ -1,0 +1,21 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/iword_blue</item>
+        <item name="colorPrimaryDark">@color/iword_blue</item>
+        <item name="colorAccent">@color/iword_blue</item>
+    </style>
+
+    <style name="WordDetailTheme" parent="AppTheme">
+        <item name="android:windowBackground">@color/translucent_background</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+    </style>
+
+    <style name="TextAppearance.Toolbar.Title" parent="TextAppearance.AppCompat.Title">
+        <item name="android:textColor">@color/iword_white</item>
+    </style>
+</resources>

@@ -1,0 +1,98 @@
+[
+  {
+    "word":"fetish",
+    "pronounce":["['fetɪʃ]","['fɛtɪʃ]"],
+    "definition":["n. 恋物（等于fetich）；迷信；偶像"],
+    "english-english":[
+      {
+        "character":"n.",
+        "definition":[
+          "a form of sexual desire in which gratification depends to an abnormal degree on some object or item of clothing or part of the body",
+          "a charm superstitiously believed to embody magical powers",
+          "excessive or irrational devotion to some activity"
+        ]
+      }
+    ],
+    "english-chinese":[
+      {
+        "definition":"N-COUNT If someone has a fetish, they have an unusually strong liking or need for a particular object or activity, as a way of getting sexual pleasure. 恋物癖",
+        "sentences":[
+          "...rubber and leather fetishes.",
+          "...橡胶和皮革恋物癖。",
+          "...fetish wear for sexual arousal.",
+          "...激起性欲的恋物穿着。"
+        ]
+      },
+      {
+        "definition":"N-COUNT If you say that someone has a fetish for doing something, you disapprove of the fact that they do it very often or enjoy it very much. 迷恋表不满",
+        "sentences":[
+          "What began as a postwar fetish for sunbathing is rapidly developing into a world health crisis.",
+          "始于战后对日光浴的迷恋快速发展成世界健康危机。"
+        ]
+      },
+      {
+        "definition":"N-COUNT In some cultures, a fetish is an object, especially a carved object, which is considered to have religious importance or magical powers. 宗教木雕"
+      }
+    ]
+  },
+
+  {
+    "word":"foe",
+    "pronounce":["[fəʊ]","[fo]"],
+    "definition":["n. 敌人；反对者；危害物"],
+    "english-english":[
+      {
+        "character":"n.",
+        "definition":[
+          "an armed adversary (especially a member of an opposing military force)",
+          "a personal enemy"
+        ]
+      }
+    ],
+    "english-chinese":[
+      {
+        "definition":"N-COUNT Someone's foe is their enemy. 敌人",
+        "sentences":[
+          "But he soon discovers that his old foe may be leading him into a trap.",
+          "但他不久发现他的老对头也许正把他引入圈套。"
+        ]
+      }
+    ]
+  },
+
+  {
+    "word":"bribe",
+    "pronounce":["[braɪb]","[braɪb]"],
+    "definition":["vt. 贿赂，收买","vi. 行贿","n. 贿赂","n. (Bribe)人名；(西)布里韦"],
+    "english-english":[
+      {
+        "character":"n.",
+        "definition":[
+          "payment made to a person in a position of trust to corrupt his judgment"
+        ]
+      },
+      {
+        "character":"v.",
+        "definition":[
+          "make illegal payments to in exchange for favors or influence"
+        ]
+      }
+    ],
+    "english-chinese":[
+      {
+        "definition":"N-COUNT A bribe is a sum of money or something valuable that one person offers or gives to another in order to persuade him or her to do something. 贿赂",
+        "sentences":[
+          "He was being investigated for receiving bribes.",
+          "他那时因为接收贿赂在受到调查。"
+        ]
+      },
+      {
+        "definition":"V-T If one person bribes another, they give them a bribe. 贿赂",
+        "sentences":[
+          "He was accused of bribing a senior bank official.",
+          "他被控贿赂一位银行高级职员。"
+        ]
+      }
+    ]
+  }
+]

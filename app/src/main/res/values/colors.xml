@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="iword_blue">#1CB0F6</color>
+    <color name="iword_white">#FFFFFF</color>
+    <color name="text_color">#333333</color>
+    <color name="iword_red">#FF4081</color>
+    <color name="translucent_background">#00000000</color>
+</resources>
